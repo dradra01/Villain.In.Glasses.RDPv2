@@ -32,3 +32,5 @@
 9. Put The Password: P@ssw0rd!
 10. And Connect it
 11. When you are connected dont close the running cmd on the rdp.
+
+<img src='https://i.ibb.co/xg0Wy9V/123.png' >
